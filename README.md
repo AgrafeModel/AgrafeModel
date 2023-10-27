@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**AgrafeModel/AgrafeModel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./crazy-frog-crazy-frog-bros.gif" align="left" height="135.5" width="100%">
+<img src="./hword.gif" align="left" height="135.5" width="100%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
+<img src="./crazy-frog-crazy-frog-bros.gif" align="right" height="135.5" width="10%">
