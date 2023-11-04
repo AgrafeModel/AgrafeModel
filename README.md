@@ -1,5 +1,5 @@
 <div align="center" style="border-radius: 8px; overflow: hidden; flex-direction: row; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem;">
-<img src="./me.jpeg" height="50%" width="50%" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);" align="center" />
+<img src="./sit.png"  width="100%" align="center" />
 </div>
 
 
