@@ -12,3 +12,5 @@ I'm an IT student who is passionate about programming and open source. I love to
 - 🔭 I’m currently working on [**@CrystalSQL**](https://github.com/AgrafeModel/CrystalSQL)
 - 📫 How to reach me: [**MAILTO:ME**](mailto:contact@corentindeguisne.fr)
 - 📖 Check my portfolio: [**corentindeguisne.fr**](https://corentindeguisne.fr)
+
+- 🟣 Working in [**Purple Maze's](https://github.com/purplemaze-net) team.
