@@ -1,6 +1,3 @@
-<div align="center" style="border-radius: 8px; overflow: hidden; flex-direction: row; display: flex; align-items: center; justify-content: center; margin-bottom: 1rem;">
-<img src="./sit.png"  width="100%" align="center" />
-</div>
 
 
 <hr style="clear: both;">
